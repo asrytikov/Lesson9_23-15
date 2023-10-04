@@ -1,2 +1,8 @@
-package p3;public interface Printable {
+package p3;
+
+public interface Printable {
+
+    void print();
+
 }
+

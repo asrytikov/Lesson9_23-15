@@ -1,6 +1,6 @@
-package p2;
+package p3;
 
-public class Journal implements Printable{
+public class Journal implements Printable {
 
     private String name;
 

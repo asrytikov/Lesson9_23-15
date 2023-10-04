@@ -1,3 +1,5 @@
+package dz6;
+
 public class SamsungPhone extends Phone{
     @Override
     public void info() {

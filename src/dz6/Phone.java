@@ -1,3 +1,5 @@
+package dz6;
+
 public abstract class Phone {
 
     private String model;
